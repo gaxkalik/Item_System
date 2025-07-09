@@ -1,5 +1,4 @@
-# Item-System-Development-Task-Rockbite
-Item System Development Task Rockbite Armen Balagyozyan
+Item System                        
 
 
 Compiling and Running the program:
