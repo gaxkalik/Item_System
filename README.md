@@ -24,7 +24,7 @@ In Inventory class I haven't implemented separate methods for grouping due to ti
 
 
 Program should run like this :
-
+**
 What do you want to do?
 add
 Type the name of the item you would like to add.
@@ -85,7 +85,7 @@ exit
 
 Process finished with exit code 0
 
-
+**
 
 
 
